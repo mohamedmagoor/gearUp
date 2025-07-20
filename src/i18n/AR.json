@@ -1,0 +1,21 @@
+{
+  "navbar": {
+    "home": "الرئيسية",
+    "about": "حولنا",
+    "services": "خدماتنا",
+    "contact": "اتصل بنا",
+    "learning": "التعلم",
+    "hireGraduates": "توظيف الخريجين",
+    "partnership": "الشراكة",
+    "login": "تسجيل الدخول",
+    "joinUs": "انضم إلينا"
+  },
+  "hero": {
+    "title": "مرحباً بكم في موقعنا",
+    "subtitle": "نحن نقدم خدمات مذهلة"
+  },
+  "buttons": {
+    "learnMore": "اعرف المزيد",
+    "getStarted": "ابدأ الآن"
+  }
+}

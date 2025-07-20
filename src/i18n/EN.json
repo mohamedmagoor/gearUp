@@ -1,0 +1,21 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "contact": "Contact",
+    "learning": "Learning",
+    "hireGraduates": "Hire Graduates",
+    "partnership": "Partnership",
+    "login": "Login",
+    "joinUs": "Join Us"
+  },
+  "hero": {
+    "title": "Welcome to Our Website",
+    "subtitle": "We provide amazing services"
+  },
+  "buttons": {
+    "learnMore": "Learn More",
+    "getStarted": "Get Started"
+  }
+}

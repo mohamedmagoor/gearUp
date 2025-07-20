@@ -1,0 +1,18 @@
+/* Layout styles */
+.layout {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.mainContent {
+  flex: 1;
+  padding-top: 80px; /* Account for fixed navbar */
+}
+
+.footer {
+  margin-top: auto;
+  background-color: #f8f9fa;
+  padding: 20px 0;
+  text-align: center;
+}
